@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrew Rausch
+- 👀 I’m interested in software development and game development
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me - My email rauschandrew97@gmail.com
